@@ -6,3 +6,12 @@ This repository contains a Selenium-based web crawling and text analysis project
 ## Topic and Search Parameters
 
 This project explores how student survival and cost of living in Seattle are represented on YouTube, with a specific focus on housing, daily expenses, and spatial constraints around the University District. Seattle is a high-cost urban environment, and students are often forced to navigate trade-offs between affordability, commute distance, and quality of life.
+
+To capture this narrative, I ran a crawler script on the following search queries to illustrate the housing pipeline for students in Seattle:
+- “uw dorm tour”
+
+- “u district apartments”
+
+- “living in seattle as a student”
+
+Each search term captures a different stage in the student housing pipeline: on-campus dorm life, off-campus housing near the university, and broader urban survival within Seattle
