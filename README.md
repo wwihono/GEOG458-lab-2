@@ -25,4 +25,20 @@ I chose this comparison because housing is one of the most significant factors s
 
 - "UW campus dorm tour": Dominated by campus-specific language such as university, campus, and freshman, This heavily reflects how dorm-related content is usually produced as a guidance for incoming students and framed through official or semi-official narratives. These videos place an emphasis on amenities and experiences rather than cost-effectivity of long-term sustainability. Notably a lot of the economic terms that I expected were largely absent, suggesting that affordability is either assumed or obscured by the University housing system. 
 
--"Student life in seattle": The Student Life in Seattle word cloud expands the scale further, incorporating language related to everyday survival and mobility across the city, terms like Seattle, cost, live, need, work, utilities, commute, and apartment suggest that students frame their experience as an ongoing negotiation with urban systems rather than a fixed living arrangement.
+- "Student life in seattle": The Student Life in Seattle word cloud expands the scale further, incorporating language related to everyday survival and mobility across the city, terms like Seattle, cost, live, need, work, utilities, commute, and apartment suggest that students frame their experience as an ongoing negotiation with urban systems rather than a fixed living arrangement.
+
+## Pattern Recognition
+Across all three word clouds, space and location remain central themes, but the language becomes increasingly economic and survival-oriented as the scale widens. Dorm discourse emphasizes belonging and orientation, apartment discourse emphasizes transactions and constraints, and city-level discourse emphasizes endurance and adaptation.
+
+One notable pattern is how cost is normalized rather than challenged, especially in the student life and apartment datasets. High rent and financial pressure are treated as expected conditions, which may reflect broader cultural acceptance of Seattle’s cost of living.
+
+
+## Standout points compared to initial expectations
+Before conducting this analysis, I had postulated that the appearance of cost-related terms would completely dominate the word clouds in all 3 stages. However, the dorm room cloud contains very little of that particular language, highlighting how insitutions can mask financial realities. Another particularly surprising finding is how often survival terms came out in the broader seattle dataset, suggesting that the student life in the city is framed less as an exploration but rather a management of risk, financial responsibilities, and time. 
+
+## Word Clouds
+
+## URL DOWNLOAD LINKS FOR CSV FILE 
+- https://drive.google.com/file/d/1RJXz4vGs1FoNqK7NyvGeq0mNyCg1vWXV/view?usp=drive_link (Udistrict apartments)
+- https://drive.google.com/file/d/13y-8mznTiZ_c2TYLOEgS8LfkfXX8XHqz/view?usp=drive_link (Dorm tours)
+- https://drive.google.com/file/d/1kKFntLn-CAgJFmIsM5PgWkZqNmtd1Cld/view?usp=sharing (Seattle life)
