@@ -38,6 +38,15 @@ Before conducting this analysis, I had postulated that the appearance of cost-re
 
 ## Word Clouds
 
+### UW Dorm Tours
+![UW Dorm Tours Word Cloud](img/wordcloud-1.png)
+
+### U District Apartments
+![U District Apartments Word Cloud](img/wordcloud-2.png)
+
+### Student Life in Seattle
+![Student Life in Seattle Word Cloud](img/wordcloud-3.png)
+
 ## URL DOWNLOAD LINKS FOR CSV FILE 
 - https://drive.google.com/file/d/1RJXz4vGs1FoNqK7NyvGeq0mNyCg1vWXV/view?usp=drive_link (Udistrict apartments)
 - https://drive.google.com/file/d/13y-8mznTiZ_c2TYLOEgS8LfkfXX8XHqz/view?usp=drive_link (Dorm tours)
